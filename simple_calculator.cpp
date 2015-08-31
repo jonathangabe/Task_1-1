@@ -63,5 +63,4 @@ int main()
     system ("cls");
     cout << "/t/tTerima kasih telah mencoba." << endl;
     return(0);
-
 }
